@@ -1,0 +1,7 @@
+wheel
+gym-retro
+opencv-python
+tensorflow==2.5.0
+scipy
+numpy
+scikit-image
